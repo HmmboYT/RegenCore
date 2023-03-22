@@ -1,0 +1,4 @@
+name: RegenCore
+version: '${project.version}'
+main: com.hmmbo.RegenCore
+api-version: 1.19
