@@ -29,4 +29,6 @@ public class WandListener implements Listener {
     }
     public void setPos1(Location pos){pos1=pos;}
     public void setPos2(Location pos){pos2=pos;}
+    public Location getPos1(){return pos1;}
+    public Location getPos2(){return pos2;}
 }
